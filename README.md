@@ -1,4 +1,4 @@
 # First-repository
-For practice.
+For practice on GitHub.
 <br>
 Name- Swati
